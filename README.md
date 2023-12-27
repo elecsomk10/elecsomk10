@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Kapse</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0c280bcbd6eeea1e06b39_Data%20processing.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/elecsomk10/elecsomk10/blob/main/Resources/Data%20Engineering%20PNG.png">
 
 <!-- 
 //To add git hub profile views
