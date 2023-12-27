@@ -32,8 +32,12 @@
 <a href="#" target="blank" title="Databricks"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=databricks" alt="@omkkapse10" hspace="5" /></a>
 <a href="#" target="blank" title="Snowflake"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=snowflake" alt="@omkkapse10" hspace="5" /></a>
 
-<h4 align="center">Check Out</h4>
-<p align="center"> 
+</br>
+</br>
+</br>
+
+<h2 align="left">Connect with me</h2>
+<p align="left"> 
 <a href="https://linkedin.com/in/omkkapse10" target="blank" title="Linkedin"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="omkkapse10" height="40" width="40" hspace="5" /></a>
 <a href="https://www.youtube.com/@omkkapse10" target="blank" title="Youtube"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=youtube" alt="@omkkapse10" height="40" width="40" hspace="5" /></a>
 <a href="https://www.codechef.com/users/elecsomk10" target="blank" title="Codechef"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=codechef" alt="elecsomk10" height="40" width="40" hspace="5" /></a>
