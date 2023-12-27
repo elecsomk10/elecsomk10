@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Omkar Kapse</h1>
-<h3 align="left">A passionate Data Engineer from India</h3>
+<h1 align="left">Hi there, I'm Omkar Kapse! 👋</h1>
+<h3 align="left">I am a Data Engineer from India</h3>
 
 <p align="left">
   <img alt="Coding" width="600" src="https://github.com/elecsomk10/elecsomk10/blob/main/Resources/Data%20Analyst%20PNG.png">
 </p>
 
-## Technical and Management Skills
+## 🛠️ My Tools and Skill Stack
 
 <h3 align="left">Programming Languages</h3>
 <a href="#" target="blank" title="Python"><img align="center" src="https://skillicons.dev/icons?i=python" alt="omkkapse10" hspace="5" /></a>
@@ -47,7 +47,7 @@
 </br>
 </br>
 
-<h2 align="left">Connect with me</h2>
+<h3 align="left">Connect with me on</h3>
 <p align="left"> 
 <a href="https://linkedin.com/in/omkkapse10" target="blank" title="Linkedin"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="omkkapse10" height="40" width="40" hspace="5" /></a>
 <a href="https://www.youtube.com/@omkkapse10" target="blank" title="Youtube"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=youtube" alt="@omkkapse10" height="40" width="40" hspace="5" /></a>
