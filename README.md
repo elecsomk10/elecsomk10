@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Omkar Kapse</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="Coding" width="600" src="https://github.com/elecsomk10/elecsomk10/blob/main/Resources/Data%20Analyst%20PNG.png">
+<p align="center"><img alt="Coding" width="600" src="https://github.com/elecsomk10/elecsomk10/blob/main/Resources/Data%20Analyst%20PNG.png"></p>
 
 <!-- 
 //To add git hub profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elecsomk10&label=Profile%20views&color=0e75b6&style=flat" alt="elecsomk10" /> </p>
 //To add git hub trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elecsomk10" alt="elecsomk10" /></a> </p>
--->
 
 ### Check out my work
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<p align="left">
-<a href="https://linkedin.com/in/omkkapse10" target="blank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=linkedin" alt="omkkapse10" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@omkkapse10" target="blank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=youtube" alt="@omkkapse10" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/elecsomk10" target="blank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=codechef" alt="elecsomk10" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/elecsomk10" target="blank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=hackerrank" alt="elecsomk10" height="40" width="40" /></a>
-<a href="https://o5wald.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/12867/12867278.png" alt="https://o5wald.github.io/" height="40" width="40" /></a>
+-->
+
+<p align="center">
+<a href="https://linkedin.com/in/omkkapse10" target="blank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=linkedin" alt="omkkapse10" height="40" width="40" hspace="5" /></a>
+<a href="https://www.youtube.com/@omkkapse10" target="blank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=youtube" alt="@omkkapse10" height="40" width="40" hspace="5" /></a>
+<a href="https://www.codechef.com/users/elecsomk10" target="blank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=codechef" alt="elecsomk10" height="40" width="40" hspace="5" /></a>
+<a href="https://www.hackerrank.com/elecsomk10" target="blank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=hackerrank" alt="elecsomk10" height="40" width="40" hspace="5" /></a>
+<a href="https://o5wald.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/12867/12867278.png" alt="https://o5wald.github.io/" height="40" width="40" hspace="5" /></a>
 </p>
 
 ### Languages and Tools
