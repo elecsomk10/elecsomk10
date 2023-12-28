@@ -8,29 +8,28 @@
 ## 🛠️ My Tools and Skill Stack
 
 <h3 align="left">Programming Languages</h3>
-<a href="#" target="blank" title="Python"><img align="center" src="https://skillicons.dev/icons?i=python" alt="omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Scala"><img align="center" src="https://skillicons.dev/icons?i=scala" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Java"><img align="center" src="https://skillicons.dev/icons?i=java" alt="omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Python"><img align="center" src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&labelColor=FFD700" alt="omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Scala"><img align="center" src="https://img.shields.io/badge/Scala-DCDCDC?style=for-the-badge&logo=scala&labelColor=FF0000" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Java"><img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="omkkapse10" hspace="5" /></a>
 
 <h3 align="left">Cloud</h3>
-<a href="#" target="blank" title="Azure"><img align="center" src="https://skillicons.dev/icons?i=azure" alt="omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="AWS"><img align="center" src="https://skillicons.dev/icons?i=aws" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Azure"><img align="center" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="AWS"><img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
 
 <h3 align="left">(Big) Data Engineering Tools</h3>
-<a href="#" target="blank" title="Hadoop"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=apachehadoop" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Hive"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=apachehive" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Spark"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=apachespark" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Kafka"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=apachekafka" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Cassandra"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=apachecassandra" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Databricks"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=databricks" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Snowflake"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=snowflake" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Hadoop"><img align="center" src="https://img.shields.io/badge/Apache%20Hadoop-FFFF00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Hive"><img align="center" src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Spark"><img align="center" src="https://img.shields.io/badge/Apache%20Spark-%23FF6701?style=for-the-badge&logo=apachespark&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Kafka"><img align="center" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Cassandra"><img align="center" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Databricks"><img align="center" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
 
 <h3 align="left">Agile, DevOps and Testing Tools</h3>
-<a href="#" target="blank" title="Git"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=git" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Bash"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=gnubash" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Linux"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=linux" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Jenkins"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=jenkins" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Jira"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=jira" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Git"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Bash"><img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Linux"><img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Jenkins"><img align="center" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="#" target="blank" title="Jira"><img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
 
 </br>
 </br>
@@ -62,10 +61,11 @@
 
 <h3 align="left">Connect with me on</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/omkkapse10" target="blank" title="Linkedin"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="omkkapse10" height="40" width="40" hspace="5" /></a>
-<a href="https://www.youtube.com/@omkkapse10" target="blank" title="Youtube"><img align="center" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" alt="@omkkapse10" height="40" width="40" hspace="5" /></a>
-<a href="https://www.codechef.com/users/elecsomk10" target="blank" title="Codechef"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=codechef" alt="elecsomk10" height="40" width="40" hspace="5" /></a>
-<a href="https://www.hackerrank.com/elecsomk10" target="blank" title="HackerRank"><img align="center" src="https://simpleskill.icons.workers.dev/svg?i=hackerrank" alt="elecsomk10" height="40" width="40" hspace="5" /></a>
-<a href="https://o5wald.github.io/" target="blank" title="Blogs"><img align="center" src="https://cdn-icons-png.flaticon.com/512/12867/12867278.png" alt="https://o5wald.github.io/" height="40" width="40" hspace="5" /></a>
+<a href="https://linkedin.com/in/omkkapse10" target="blank" title="Linkedin"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="omkkapse10" hspace="5" /></a>
+<a href="https://www.youtube.com/@omkkapse10" target="blank" title="Youtube"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="https://www.codechef.com/users/elecsomk10" target="blank" title="Codechef"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="elecsomk10" hspace="5" /></a>
+<a href="https://www.hackerrank.com/elecsomk10" target="blank" title="HackerRank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="elecsomk10" hspace="5" /></a>
+<a href="https://o5wald.github.io/" target="blank" title="Blogs"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" hspace="5" /></a>
 </p>
+
 
