@@ -8,28 +8,28 @@
 ## 🛠️ My Tools and Skill Stack
 
 <h3 align="left">Programming Languages</h3>
-<a href="#" target="blank" title="Python"><img align="center" src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&labelColor=FFD700" alt="omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Scala"><img align="center" src="https://img.shields.io/badge/Scala-DCDCDC?style=for-the-badge&logo=scala&labelColor=FF0000" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Java"><img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Python"><img align="center" src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&labelColor=FFD700" alt="omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Scala"><img align="center" src="https://img.shields.io/badge/Scala-DCDCDC?style=for-the-badge&logo=scala&labelColor=FF0000" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Java"><img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="omkkapse10" hspace="5" /></a>
 
 <h3 align="left">Cloud</h3>
-<a href="#" target="blank" title="Azure"><img align="center" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="AWS"><img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Azure"><img align="center" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="AWS"><img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
 
 <h3 align="left">(Big) Data Engineering Tools</h3>
-<a href="#" target="blank" title="Hadoop"><img align="center" src="https://img.shields.io/badge/Apache%20Hadoop-FFFF00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Hive"><img align="center" src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Spark"><img align="center" src="https://img.shields.io/badge/Apache%20Spark-%23FF6701?style=for-the-badge&logo=apachespark&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Kafka"><img align="center" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Cassandra"><img align="center" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Databricks"><img align="center" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Hadoop"><img align="center" src="https://img.shields.io/badge/Apache%20Hadoop-FFFF00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Hive"><img align="center" src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Spark"><img align="center" src="https://img.shields.io/badge/Apache%20Spark-%23FF6701?style=for-the-badge&logo=apachespark&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Kafka"><img align="center" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Cassandra"><img align="center" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Databricks"><img align="center" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
 
 <h3 align="left">Agile, DevOps and Testing Tools</h3>
-<a href="#" target="blank" title="Git"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Bash"><img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Linux"><img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Jenkins"><img align="center" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
-<a href="#" target="blank" title="Jira"><img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Git"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Bash"><img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Linux"><img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Jenkins"><img align="center" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
+<a href="" target="blank" title="Jira"><img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
 
 </br>
 </br>
