@@ -66,7 +66,7 @@
 <a href="https://www.youtube.com/@omkkapse10" target="blank" title="Youtube"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@omkkapse10" hspace="5" /></a>
 <a href="https://www.codechef.com/users/elecsomk10" target="blank" title="Codechef"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="elecsomk10" hspace="5" /></a>
 <a href="https://www.hackerrank.com/elecsomk10" target="blank" title="HackerRank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="elecsomk10" hspace="5" /></a>
-<a href="https://o5wald.github.io/" target="blank" title="Blogs"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" hspace="5" /></a>
+<a href="https://github.com/elecsomk10/Blogs/tree/master" target="blank" title="Blogs"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" hspace="5" /></a>
 </p>
 
 
