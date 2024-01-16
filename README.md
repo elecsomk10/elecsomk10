@@ -10,7 +10,7 @@
 <!-- <a href="" target="blank" title="Java"><img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="omkkapse10" hspace="5" /></a> -->
 
 <h3 align="left">Cloud</h3>
-<!-- <a href="" target="blank" title="Azure"><img align="center" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="omkkapse10" hspace="5" /></a> -->
+<a href="" target="blank" title="Azure"><img align="center" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="omkkapse10" hspace="5" /></a>
 <!-- <a href="" target="blank" title="AWS"><img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="@omkkapse10" hspace="5" /></a> -->
 
 <h3 align="left">(Big) Data Engineering Tools</h3>
