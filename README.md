@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Omkar Kapse! 👋</h1>
 
-![Data Engineer Omkar Kapse](https://github.com/elecsomk10/elecsomk10/assets/37346017/63969bb3-6ea0-4b85-b791-c3a2c79982e3)
+![Data Engineer Omkar Kapse](https://github.com/elecsomk10/elecsomk10/assets/37346017/f1523910-b0f4-4802-9c8b-9efea891670a)
 
 ## 🛠️ My Tools and Skill Stack
 
