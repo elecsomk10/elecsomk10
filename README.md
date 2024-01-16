@@ -1,9 +1,6 @@
 <h1 align="left">Hi there, I'm Omkar Kapse! 👋</h1>
-<h3 align="left">I am a Data Engineer from India</h3>
 
-<p align="left">
-  <img alt="Coding" width="600" src="https://github.com/elecsomk10/elecsomk10/blob/main/Resources/Data%20Analyst%20PNG.png">
-</p>
+![Data Engineer Omkar Kapse](https://github.com/elecsomk10/elecsomk10/assets/37346017/63969bb3-6ea0-4b85-b791-c3a2c79982e3)
 
 ## 🛠️ My Tools and Skill Stack
 
